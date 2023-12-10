@@ -1,0 +1,42 @@
+Hello,
+
+ 
+
+Okay first of all let me brief you about the entrance exam then I will tell you about the interview.
+
+ 
+
+Entrance Exam:
+
+·        There are Four Sections in Entrance:
+1.      Quantitative Aptitude
+2.      Computer Science
+3.      Mathematics
+4.      Statistics and Probability.
+·        Now I will explain every Section One by One.
+
+ 
+
+1.      Quantitative Aptitude:
+·        This is the logical reasoning section where your question will be simple and you just need to apply logic. Questions like Predicting Number series, Predicting next letter etc. will be asked. For this, you can refer to https://www.indiabix.com/ they have really good questions I personally also practiced from there and marked every question in the entrance correctly.
+2.      Computer Science:
+·        In this Section mostly questions will be of medium-range (not very hard not very easy). Question about predicting the output of a program will be asked a lot. They will not ask simple questions like what is the syntax or anything like that. You will need to be thorough with basic programming concepts like Loops, conditional statements, User-defined function, OOPS concepts etc. For data structure, first of all, be thorough with all the concepts listed in the syllabus I would not suggest any book for this because I believe YouTube videos are best and also reading a whole book for this concept will take a lot of unnecessary time. Once you are comfortable with data structures and algorithms you can just practice solving different programming / Data structure questions which will also clear a lot of concepts and will help you. “Love Babbar” youtube channel has placement series playlist which covers topics from Data Structure and Algorithm Section which you can refer if you want.
+3.      Mathematics and Probability Statistics:
+·        Here I am talking about mathematics and Probability section together.
+·        First of all be thorough with your 11th and 12th NCERT. Only after you have completed NCERTs once. look at the syllabus listed. When you will  see syllabus then you will realize that lots of topics you have already covered in NCERT. Then look for concepts you have not covered and search YouTube video for the same. For linear Algebra part of Mathematics Section i referred to “Schaum’s linear algebra” you don’t need to study all the chapters from this book for Linear Algebra  but whichever you study try to solve question from the book they are really good. For differential equations part I again referred to “Schaum’s differential equation” question are good and concepts you can clear from Youtube videos. Whole integral equation part will be covered in NCERT. Coming to Functions, Sequences and Series part I didn’t do it properly so I don’t think I will be right person to guide you through those topics.
+·        Now coming to the Statistics and Probability section. Question asked in this section were pretty easy when I sat for entrance this year but do practice some medium level question as well because you never know what they ask this year. I will suggest you to refer “First Course in Probability by Sheldon Ross” or “Introduction to Probability and Statistics by Sheldon Ross” Author for both books is same. I didn’t refer to them actually but all this topics in Entrance exam will again come to you in First Semester of M.Sc Data Science our instructors used to teach from this books and I must say this books are amazing. Questions are of Really high level so if you can’t solve them don’t worry just read concepts from them and see solved examples. For probability and Statistics part you will also need Permutations and Combinations which you will cover in NCERT although they have not listed Permutations and Combinations in the syllabus they did ask one question from it when I gave entrance. Refer only one book of Sheldon ross as author is same  some examples are also repeated in both books.
+·         I request make to notes whenever you start with math/probability right from NCERTs because there is a lot of content and you will not get time to revise each and everything from books. Also, make habit of revising things as I said there is a lot of content which you will forget over time.
+
+ 
+
+Interview:
+
+·        Interview was really good and easy-going. All the persons who took the interview were really humble. Key to cracking interview would be stay honest and stay humble while answering questions. Shaanpatti karoge toh obviously you will not create good impression on them.
+·        Syllabus for interview is same as for entrance. But when my batch gave interview this year all of us were asked about their bachelor’s degree backgrounds. Those who were from CS/IT background were asked more questions related to programming and Data structures and those who were from maths/Statistics background were asked more question about maths/Stats.
+·        For me interview lasted for 20 min but for some of my batchmates interviews lasted for 15 min so the length of the interview I would say ranges from 15-20 mins.
+·        As I said that I was from IT background I was just asked to solve a basic integration which I did successfully then they asked me a various question related to programming. First of all they asked me if I know C language as I said yes they asked me syntax of “For” loop, then asked me logic to print 1 to N number then extending same asked me logic for summing 1 to N numbers as I said them logic they asked why do we initialize sum variable in C and why assign 0 to it etc. Then they asked me If I have studied Data Structures and Algorithm as I said I didn’t have DSA in bachelors but I have studied them for entrance they just asked me a basic time complexity question. But for my batchmates who said they have studied DSA in bachlors, they were asked questions related to linked list, stacks, queues, etc.
+·        So for interview I would say it depends a lot on your bachelors what background you have and what subjects you have learned in bachelors. But don’t lie about your bachelors be HONEST. 
+
+ 
+
+I think this is all I can help with. But still you have any doubt fell free to DM me. Just be sincere and honest in our preparation. Entrance Exam and Interview might be intimidating but trust me its not hard if you work hard and smart you will crack it very easily. I have attached mentioned books in the E-Mail if by chance i have forgot to attach please DM me I will send it to you. All the Best.
